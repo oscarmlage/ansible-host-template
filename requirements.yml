@@ -1,0 +1,4 @@
+- name: ansible-role-template
+  src: ssh://git@git.oscarmlage.com:10022/ansible/ansible-role-template.git
+  scm: git
+  version: main
